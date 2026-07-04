@@ -1,0 +1,24 @@
+# Байт-код, оптимизированные и DLL-файлы
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальные окружения
+venv/
+.venv
+
+# Файлы окружения и переменные
+.env
+
+# Артефакты сборки и упаковки
+dist/
+build/
+*.egg-info/
+
+# Файлы покрытия кода и кэши
+.coverage
+*.py,cover
+.cache/
+
+# Контрольные точки Jupyter Notebook
+.ipynb_checkpoints
